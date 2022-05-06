@@ -20,3 +20,4 @@ Random process: 확률 변수들의 나열
 
 Markov chain: 이전 시점의 변수에만 영향을 받은 random process(
 
+<img src="https://github.com/Hyeseong0317/GAN/blob/main/images/markov chain.PNG" width="40%">
