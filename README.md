@@ -12,3 +12,11 @@ Likelihood: 주어진 파라미터를 이용한 분포가 모집단의 분포일
 
 주어진 데이터를 바탕으로 모집단의 분포와 유사할 확률이 가장 높은 파라미터 찾기
 
+VAE: latent variable(z)
+
+Diffusion Models: Latent variable이 Markov chain
+
+Random process: 확률 변수들의 나열
+
+Markov chain: 이전 시점의 변수에만 영향을 받은 random process(
+
