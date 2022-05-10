@@ -29,6 +29,8 @@ Diffusion Models (DDPM) : 노이즈를 제거하는 과정을 학습해 랜덤 �
 
 Score-based Generative Modeling with SDEs : SDE라는 구조 내에서 NCSN과 DDPM을 통합
 
+[Score-based Generative Modeling by Diffusion Process](https://arxiv.org/pdf/2011.13456.pdf)
+
 ### Langevin Dynamics -> Gradient Ascent를 통해 이미지 분포를 잘 나타내는 subspace를 찾아낸다. Noise가 적은 true 이미지를 찾아낸다.
 
 <img src="https://github.com/Hyeseong0317/Generative-Model/blob/main/images/langevin model.jpg" width="60%">
