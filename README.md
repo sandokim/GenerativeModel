@@ -33,4 +33,4 @@ Score-based Generative Modeling with SDEs : SDE라는 구조 내에서 NCSN과 D
 
 <img src="https://github.com/Hyeseong0317/Generative-Model/blob/main/images/langevin model.PNG" width="60%">
 
-<img src="https://github.com/Hyeseong0317/Generative-Model/blob/main/images/gradient ascent.PNG" width="40%">
+<img src="https://github.com/Hyeseong0317/Generative-Model/blob/main/images/gradient ascent.png" width="40%">
