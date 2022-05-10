@@ -31,4 +31,6 @@ Score-based Generative Modeling with SDEs : SDE라는 구조 내에서 NCSN과 D
 
 ### Langevin Dynamics -> Gradient Ascent를 통해 이미지 분포를 잘 나타내는 subspace를 찾아낸다. Noise가 적은 true 이미지를 찾아낸다.
 
-<img src="https://github.com/Hyeseong0317/Generative-Model/blob/main/images/langevin model.PNG" width="40%">
+<img src="https://github.com/Hyeseong0317/Generative-Model/blob/main/images/langevin model.PNG" width="60%">
+
+<img src="https://github.com/Hyeseong0317/Generative-Model/blob/main/images/gradient ascent.PNG" width="40%">
