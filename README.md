@@ -39,6 +39,8 @@ Score-based Generative Modeling with SDEs : SDE라는 구조 내에서 NCSN과 D
 
 ### Random variable & Random process
 
-Random variable : Time X, 일반적인 함수
+Random variable : Time X, 일반적인 함수 -> 확률변수는 불확실한 어떤 사건을 숫자로 모델링하는데 사용 
 
-Random process : Time까지 고려, 주가차트를 예시로 생각하면 됩니다.
+Random process : Time까지 고려, 주가차트를 예시로 생각하면 됩니다. -> Random process는 불확실한 어떤 신호를 모델링하는데 사용
+
+모든 시간에 대해 신호의 값을 정확히 표현할 수 있으면 그 신호를 결정적 신호(deterministic signal)라 하고, 불확실성이 있어서 정확히 표현할 수 없을 때 그 신호를 랜덤 신호(random signal)라 합니다.
