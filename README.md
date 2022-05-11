@@ -36,3 +36,9 @@ Score-based Generative Modeling with SDEs : SDE라는 구조 내에서 NCSN과 D
 <img src="https://github.com/Hyeseong0317/Generative-Model/blob/main/images/langevin model.jpg" width="60%">
 
 <img src="https://github.com/Hyeseong0317/Generative-Model/blob/main/images/gradient ascent.png" width="40%">
+
+### Random variable & Random process
+
+Random variable : Time X, 일반적인 함수
+
+Random process : Time까지 고려, 주가차트를 예시로 생각하면 됩니다.
