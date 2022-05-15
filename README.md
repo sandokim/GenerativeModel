@@ -48,6 +48,10 @@ We observe that perturbing data with random Gaussian noise makes the data distri
 
 -> Gaussian noise distribution는 the whole space이고 가우시안 노이즈로 인해 perturbed된 data는 low dimensional manifold에 한정되지 않게 될 것이다. 그럼 score estimation에서 잘 정의할 수 있게 된다. 또한 original unperturbed data distribution(아직 노이즈가 추가되지 않은 본래의 데이터 분포)의 low density region을 큰 가우시안 노이즈로 채움으로써 score matching은 score estimation을 향상시키기 위한 training signal을 더 가질 수 있다. 
 
+[Sliced Score Matching: A Scalable Approach to Density and Score Estimation](https://arxiv.org/pdf/1905.07088.pdf)
+
+Besides parameter estimation in unnormalized models, score matching can also be used to estimate scores of implicit distributions, which are distributions that have a tractable sampling process but without a tractable density. For example, the distribution of random samples from the generator of a GAN (Goodfellow et al., 2014) is an implicit distribution. Implicit distributions can arise in many more situations such as the marginal distribution of a non-conjugate model (Sun et al., 2019), and models defined by complex simulation processes (Tran et al., 2017). In many cases learning and inference become intractable due to the need of optimizing an objective that involves the intractable density.
+
 
 ### Random variable & Random process
 
