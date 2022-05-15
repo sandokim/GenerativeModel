@@ -37,6 +37,10 @@ Score-based Generative Modeling with SDEs : SDE라는 구조 내에서 NCSN과 D
 
 <img src="https://github.com/Hyeseong0317/Generative-Model/blob/main/images/gradient ascent.png" width="40%">
 
+[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/pdf/1907.05600.pdf)
+
+Since Langevin dynamics use ∇x log pdata(x) to sample from pdata(x), the samples obtained will not depend on π.
+
 ### Random variable & Random process
 
 Random variable : Time X, 일반적인 함수 -> 확률변수는 불확실한 어떤 사건을 숫자로 모델링하는데 사용 
