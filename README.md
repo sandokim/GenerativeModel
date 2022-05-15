@@ -41,6 +41,8 @@ Score-based Generative Modeling with SDEs : SDE라는 구조 내에서 NCSN과 D
 
 Since Langevin dynamics use ∇x log pdata(x) to sample from pdata(x), the samples obtained will not depend on π.
 
+-> Langevin dynamics은 샘플링하는데 사용한다.
+
 ### 4 Noise Conditional Score Networks: learning and inference
 We observe that perturbing data with random Gaussian noise makes the data distribution more amenable to score-based generative modeling. First, since the support of our Gaussian noise distribution is the whole space, the perturbed data will not be confined to a low dimensional manifold, which obviates difficulties from the manifold hypothesis and makes score estimation well-defined. Second, large Gaussian noise has the effect of filling low density regions in the original unperturbed data distribution; therefore score matching may get more training signal to improve score estimation. Furthermore, by using multiple noise levels we can obtain a sequence of noise-perturbed distributions that converge to the true data distribution. We can improve the mixing rate of Langevin dynamics on multimodal distributions by leveraging these intermediate distributions in the spirit of simulated annealing [30] and annealed importance sampling [37].
 
