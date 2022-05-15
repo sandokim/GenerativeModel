@@ -50,6 +50,8 @@ We observe that perturbing data with random Gaussian noise makes the data distri
 
 [Sliced Score Matching: A Scalable Approach to Density and Score Estimation](https://arxiv.org/pdf/1905.07088.pdf)
 
+#### Implicit distributions have a tractable sampling process but without a tractable density. EX) GAN objective function
+
 Besides parameter estimation in unnormalized models, score matching can also be used to estimate scores of implicit distributions, which are distributions that have a tractable sampling process but without a tractable density. For example, the distribution of random samples from the generator of a GAN (Goodfellow et al., 2014) is an implicit distribution. Implicit distributions can arise in many more situations such as the marginal distribution of a non-conjugate model (Sun et al., 2019), and models defined by complex simulation processes (Tran et al., 2017). In many cases learning and inference become intractable due to the need of optimizing an objective that involves the intractable density.
 
 
