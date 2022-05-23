@@ -6,9 +6,9 @@
 
 [FID Scores; GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/pdf/1706.08500.pdf)
 
-[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
-
 ### Diffusion models
+
+[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
 
 #### Maximum Likelihood Estimation (MLE)
 
