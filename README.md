@@ -1,8 +1,14 @@
 ### GAN idea
 
+#### Metrices
+
+[Inception scores; Improved techniques for training gans](https://arxiv.org/pdf/1606.03498.pdf)
+
+[FID Scores; GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/pdf/1706.08500.pdf)
+
 [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
 
-Diffusion models
+### Diffusion models
 
 #### Maximum Likelihood Estimation (MLE)
 
