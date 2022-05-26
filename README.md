@@ -6,7 +6,8 @@ Explicit density : Data distribution에 approximate할 확률분포를 명시적
 
 Implicit density : 확률분포를 정하기 않고 학습. ex) GAN
 
-### Variational Auto Encoder(VAE) -> loss function = Reconstruction error + KL divergence(Gaussian distribution <-> Data Distribution)
+### Variational Auto Encoder(VAE) 
+### -> loss function = Reconstruction error + KL divergence(Gaussian distribution<->Data Distribution)
 
 Variational Auto Encoder의 KL term은 Gaussian distribution말고는 계산하기가 어렵다. 
 
