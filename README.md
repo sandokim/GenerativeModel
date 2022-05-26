@@ -22,6 +22,10 @@ Encoder : x, Decoder; sampled z and data x Maximum Likelihood
 
 VAE에서 Prior가 Gaussian distribution이 아니면 우리가 선택한 실제 데이터 분포와 유사하다고 가정한 Gaussian distribution과 실제 Data distribution 사이의 차이인 KL divergence를 계산하기 어렵다. -> AAE는 이 문제를 해결한다, KL divergence를 계산하지 않아도 되는 함수를 써보자.
 
+### VAE 와 GAN 차이
+
+VAE는 Encoder와 Decoder 모두 ELBO를 Maixmize하려하기 때문에 서로 으쌰으쌰하면서 학습이 잘되는 반면, GAN은 Generator는 Objective function을 Minimize, Discriminator는 Objective function을 Maximize하려하기 때문에 적대적으로 학습하며 학습이 잘 안된다.
+
 #### Metrices
 
 [Inception scores; Improved techniques for training gans](https://arxiv.org/pdf/1606.03498.pdf)
