@@ -1,5 +1,21 @@
 ### GAN idea
 
+### Variational Auto Encoder(VAE) -> loss function = Reconstruction error + KL divergence(Gaussian distribution <-> Data Distribution)
+
+Variational Auto Encoder의 KL term은 Gaussian distribution말고는 계산하기가 어렵다. 
+
+Encoder : x, Prior; Gaussian distribution, Decoder; sampled z and data x Maximum Likelihood
+
+### Auto Encoder(AE) -> loss function = Reconstruction error
+
+Encoder : x, Decoder; sampled z and data x Maximum Likelihood
+
+수학적으로보면 variational auto encoder(VAE)와 auto encoder(AE)는 하등 관계가 없다..
+
+### Adversarial Auto Encoder(AAE) 
+
+VAE에서 Prior가 Gaussian distribution이 아니면 우리가 선택한 실제 데이터 분포와 유사하다고 가정한 Gaussian distribution과 실제 Data distribution 사이의 차이인 KL divergence를 계산하기 어렵다. -> AAE는 이 문제를 해결한다.
+
 #### Metrices
 
 [Inception scores; Improved techniques for training gans](https://arxiv.org/pdf/1606.03498.pdf)
