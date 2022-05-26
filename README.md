@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Hyeseong0317/GAN/blob/main/images/Taxonomy-of-generative-models-based-on-maximum-likelihood.JPG" width="40%">
 
-Explicit density : Data distribution을 명시적으로 정하고 감.
+Explicit density : Data distribution에 approximate할 확률분포를 명시적으로 정하고 감. 확률분포 ex) Gaussian Distribution(=MSE), Bernoulli Distribution(=Cross-entropy)
 
-Implicit density : Data distribution을 정하기 않고 학습.
+Implicit density : 확률분포를 정하기 않고 학습. ex) GAN
 
 ### Variational Auto Encoder(VAE) -> loss function = Reconstruction error + KL divergence(Gaussian distribution <-> Data Distribution)
 
