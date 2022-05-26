@@ -1,5 +1,11 @@
 ### GAN idea
 
+<img src="https://github.com/Hyeseong0317/GAN/blob/main/images/Taxonomy-of-generative-models-based-on-maximum-likelihood.JPG" width="40%">
+
+Explicit density : Data distribution을 명시적으로 정하고 감.
+
+Implicit density : Data distribution을 정하기 않고 학습.
+
 ### Variational Auto Encoder(VAE) -> loss function = Reconstruction error + KL divergence(Gaussian distribution <-> Data Distribution)
 
 Variational Auto Encoder의 KL term은 Gaussian distribution말고는 계산하기가 어렵다. 
