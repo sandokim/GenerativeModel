@@ -36,7 +36,7 @@ Subspace W에 속하는 모든 w에 대한 Maximum Expected Value는 f가 정의
 
 #### WGAN VS GAN 
 
-WGAN gives a reasonably nice gradient over everything, whereas GAN discriminator does so in a way that makes gradients vanish over most of the space(=model collapse). 
+WGAN gives a reasonably nice gradient over everything, whereas GAN discriminator does so in a way that makes gradients vanish over most of the space(=mode collapse). 
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/WGAN_VS_GAN.JPG" width="50%">
 
