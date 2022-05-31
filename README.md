@@ -34,6 +34,12 @@ Subspace W에 속하는 모든 w에 대한 Maximum Expected Value는 f가 정의
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_is_differentiable.JPG" width="100%">
 
+#### WGAN VS GAN 
+
+WGAN gives a reasonably nice gradient over everything, whereas GAN discriminator does so in a way that makes gradients vanish over most of the space(=model collapse). 
+
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/WGAN_VS_GAN.JPG" width="50%">
+
 #### Wasserstein Distance Discrete
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_discrete.JPG" width="40%" align='left'/>
