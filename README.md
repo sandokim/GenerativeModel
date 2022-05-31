@@ -10,6 +10,10 @@
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/high_dimension_intersection.JPG" width="100%">
 
+#### Wasserstein distance continuity and differentiability in loss function is crucial for learning
+
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_continuity_and_differentiability.JPG" width="100%">
+
 #### Wasserstein Distance Discrete 
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_discrete.JPG" width="40%" align='left'/>
