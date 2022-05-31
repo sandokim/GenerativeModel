@@ -1,5 +1,7 @@
 ### GAN idea
 
+[Read-through: Wasserstein GAN](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
+
 <img src="https://github.com/Hyeseong0317/GAN/blob/main/images/Taxonomy-of-generative-models-based-on-maximum-likelihood.JPG" width="40%">
 
 Explicit density : Data distribution에 approximate할 확률분포를 명시적으로 정하고 감. 확률분포 ex) Gaussian Distribution(=MSE), Bernoulli Distribution(=Cross-entropy)
