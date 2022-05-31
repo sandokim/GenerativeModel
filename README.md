@@ -6,6 +6,10 @@
 
 [Introduction to the Wasserstein distance](https://www.youtube.com/watch?v=CDiol4LG2Ao)
 
+#### High Dimension VS Low Dimension (Intersection X)
+
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/high_dimension_intersection.JPG" width="40%">
+
 #### Wasserstein Distance Discrete 
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_discrete.JPG" width="40%" align='left'/>
