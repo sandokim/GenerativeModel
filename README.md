@@ -22,6 +22,10 @@ Subspace W에 속하는 모든 w에 대한 Maximum Expected Value는 f가 정의
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/supremum_ex.JPG" width="100%">
 
+#### How Wasserstein Distance can be computed
+
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_model_train.JPG" width="100%">
+
 #### Wasserstein Distance Discrete
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_discrete.JPG" width="40%" align='left'/>
