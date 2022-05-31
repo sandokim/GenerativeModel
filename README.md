@@ -6,6 +6,15 @@
 
 [Introduction to the Wasserstein distance](https://www.youtube.com/watch?v=CDiol4LG2Ao)
 
+#### Wasserstein Distance Discrete 
+
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_discrete.JPG" width="40%">
+
+#### Wasserstein Distance Continuous
+
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_continuous.JPG" width="40%">
+
+
 #### Joint distribution Gamma
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/joint_distribution_gamma.JPG" width="80%">
