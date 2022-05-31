@@ -52,6 +52,13 @@ WGAN gives a reasonably nice gradient over everything, whereas GAN discriminator
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/joint_distribution_gamma.JPG" width="80%">
 
+[f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/pdf/1606.00709.pdf)
+
+반연속, lower-semicontinuous function
+
+[Semi-continuity, 위에서 반연속, 아래서 반연속, ](https://ko.wikipedia.org/wiki/%EB%B0%98%EC%97%B0%EC%86%8D_%ED%95%A8%EC%88%98)
+
+
 #### Taxanomy of generative models
 
 <img src="https://github.com/Hyeseong0317/GAN/blob/main/images/Taxonomy-of-generative-models-based-on-maximum-likelihood.JPG" width="40%">
