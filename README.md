@@ -60,12 +60,13 @@ WGAN gives a reasonably nice gradient over everything, whereas GAN discriminator
 
 ### 위에서 반연속, upper semicontinuous
 
-<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/위에서 반연속.JPG" width="60%" align='left'/>
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/위에서 반연속.JPG" width="30%" align='left'/>
 
 ### 아래서 반연속, lower semicontinuous
 
-<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/아래서 반연속.JPG" width="60%" align='right'/>
-                                                                                                                                 #### Taxanomy of generative models
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/아래서 반연속.JPG" width="30%" align='center'/>
+
+#### Taxanomy of generative models
 
 <img src="https://github.com/Hyeseong0317/GAN/blob/main/images/Taxonomy-of-generative-models-based-on-maximum-likelihood.JPG" width="40%">
 
