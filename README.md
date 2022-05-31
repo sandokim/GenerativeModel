@@ -2,7 +2,9 @@
 
 [Read-through: Wasserstein GAN](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 
-<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/joint_distribution_gamma.JPG" width="40%">
+#### Joint distribution Gamma
+
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/joint_distribution_gamma.JPG" width="80%">
 
 <img src="https://github.com/Hyeseong0317/GAN/blob/main/images/Taxonomy-of-generative-models-based-on-maximum-likelihood.JPG" width="40%">
 
