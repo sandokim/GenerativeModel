@@ -14,7 +14,15 @@
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_continuity_and_differentiability.JPG" width="100%">
 
-#### Wasserstein Distance Discrete 
+#### Supremum 예시, w는 weights이며 W는 모든 possible weights set (subspace, 하위집합)
+
+Vector space K의 Subspace를 W라 정의하였다.
+
+Subspace W에 속하는 모든 w에 대한 Maximum Expected Value는 f가 정의된 Vector space K의 supremum 상한(=최소상계, Least Upper Bound, LUB)보다는 항상 작거나 같아야한다.
+
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/supremum_ex.JPG" width="100%">
+
+#### Wasserstein Distance Discrete
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_discrete.JPG" width="40%" align='left'/>
 
