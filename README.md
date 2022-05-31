@@ -30,7 +30,7 @@ Subspace W에 속하는 모든 w에 대한 Maximum Expected Value는 f가 정의
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_model_converge.JPG" width="100%">
 
-#### Wasserstein Distance is differentiable nearly everywhere compared to GAN which uses JS divergence!
+#### Wasserstein Distance is differentiable nearly everywhere compared to GANs which use JS divergence (JS divergence can make a gradient 0..!)
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Wasserstein_distance_is_differentiable.JPG" width="100%">
 
