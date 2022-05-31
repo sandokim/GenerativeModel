@@ -2,6 +2,8 @@
 
 [Read-through: Wasserstein GAN](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 
+#### Wasserstein distance = kantorovich-Rubinstei = Optimal transport = Earth mover's distance 
+
 #### Joint distribution Gamma
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/joint_distribution_gamma.JPG" width="80%">
