@@ -8,7 +8,7 @@
 
 #### High Dimension VS Low Dimension (Intersection X)
 
-<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/high_dimension_intersection.JPG" width="40%">
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/high_dimension_intersection.JPG" width="100%">
 
 #### Wasserstein Distance Discrete 
 
