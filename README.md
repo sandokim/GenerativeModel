@@ -54,6 +54,8 @@ WGAN gives a reasonably nice gradient over everything, whereas GAN discriminator
 
 #### Earth Mover distance, Lipschitz condition 1
 
+[Wasserstein GANs with Gradient Penalty](https://www.youtube.com/watch?v=v6y5qQ0pcg4)
+
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/EM.jpg" width="80%">
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/W-loss,bce-loss.jpg" width="80%">
