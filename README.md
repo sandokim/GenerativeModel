@@ -254,3 +254,10 @@ Random process : Time까지 고려, 주가차트를 예시로 생각하면 됩�
   ㅇ 비정상성(Nonstationary)은 불안정한 물리 현상
   
      - 통계적 성질이 시간에 따라 커지는 등 시변적인 특성
+     
+
+# Reference
+
+#### [Generative Adversarial Perturbations](https://openaccess.thecvf.com/content_cvpr_2018/papers/Poursaeed_Generative_Adversarial_Perturbations_CVPR_2018_paper.pdf)
+
+
