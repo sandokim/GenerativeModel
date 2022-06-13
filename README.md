@@ -260,4 +260,232 @@ Random process : Time까지 고려, 주가차트를 예시로 생각하면 됩�
 
 #### [Generative Adversarial Perturbations](https://openaccess.thecvf.com/content_cvpr_2018/papers/Poursaeed_Generative_Adversarial_Perturbations_CVPR_2018_paper.pdf)
 
+References
+
+[1] N. Akhtar, J. Liu, and A. Mian. Defense against universal
+adversarial perturbations. arXiv preprint arXiv:1711.05929,
+2017. 2
+
+[2] A. Arnab, O. Miksik, and P. H. Torr. On the robustness of
+semantic segmentation models to adversarial attacks. arXiv
+preprint arXiv:1711.09856, 2017. 2
+
+[3] A. Athalye, N. Carlini, and D. Wagner. Obfuscated gradients
+give a false sense of security: Circumventing defenses to adversarial examples. arXiv preprint arXiv:1802.00420, 2018.
+2
+
+[4] A. Athalye and I. Sutskever. Synthesizing robust adversarial
+examples. arXiv preprint arXiv:1707.07397, 2017. 2
+
+[5] V. Badrinarayanan, A. Kendall, and R. Cipolla. Segnet: A
+deep convolutional encoder-decoder architecture for image
+segmentation. arXiv preprint arXiv:1511.00561, 2015. 1
+
+[6] S. Baluja and I. Fischer. Adversarial transformation networks: Learning to generate adversarial examples. arXiv
+preprint arXiv:1703.09387, 2017. 2
+
+[7] A. N. Bhagoji, W. He, B. Li, and D. Song. Exploring the
+space of black-box attacks on deep neural networks. arXiv
+preprint arXiv:1712.09491, 2017. 3, 5, 7
+
+[8] N. Carlini and D. Wagner. Towards evaluating the robustness
+of neural networks. In Security and Privacy (SP), 2017 IEEE
+Symposium on, pages 39–57. IEEE, 2017. 2, 3, 5, 6
+
+[9] L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and
+A. L. Yuille. Deeplab: Semantic image segmentation with
+deep convolutional nets, atrous convolution, and fully connected crfs. arXiv preprint arXiv:1606.00915, 2016. 1
+
+[10] P.-Y. Chen, H. Zhang, Y. Sharma, J. Yi, and C.-J. Hsieh. Zoo:
+Zeroth order optimization based black-box attacks to deep
+neural networks without training substitute models. In Proceedings of the 10th ACM Workshop on Artificial Intelligence
+and Security, pages 15–26. ACM, 2017. 7
+
+[11] M. Cisse, Y. Adi, N. Neverova, and J. Keshet. Houdini:
+Fooling deep structured prediction models. arXiv preprint
+arXiv:1707.05373, 2017. 2
+
+[12] M. Cordts, M. Omran, S. Ramos, T. Rehfeld, M. Enzweiler,
+R. Benenson, U. Franke, S. Roth, and B. Schiele. The
+cityscapes dataset for semantic urban scene understanding.
+In Proceedings of the IEEE Conference on Computer Vision
+and Pattern Recognition, pages 3213–3223, 2016. 7
+
+[13] N. Das, M. Shanbhogue, S.-T. Chen, F. Hohman, S. Li,
+L. Chen, M. E. Kounavis, and D. H. Chau. Shield: Fast, practical defense and vaccination for deep learning using jpeg
+compression. arXiv preprint arXiv:1802.06816, 2018. 2
+
+[14] J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li, and L. FeiFei. Imagenet: A large-scale hierarchical image database.
+In Computer Vision and Pattern Recognition, 2009. CVPR
+2009. IEEE Conference on, pages 248–255. IEEE, 2009. 5
+
+[15] E. L. Denton, S. Chintala, R. Fergus, et al. Deep generative image models using a laplacian pyramid of adversarial
+networks. In Advances in neural information processing systems, pages 1486–1494, 2015. 3
+
+[16] G. S. Dhillon, K. Azizzadenesheli, Z. C. Lipton, J. Bernstein,
+J. Kossaifi, A. Khanna, and A. Anandkumar. Stochastic activation pruning for robust adversarial defense. arXiv preprint
+arXiv:1803.01442, 2018. 2
+
+[17] I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu,
+D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio. Generative adversarial nets. In Advances in neural information
+processing systems, pages 2672–2680, 2014. 3
+
+[18] I. J. Goodfellow, J. Shlens, and C. Szegedy. Explaining and harnessing adversarial examples. arXiv preprint
+arXiv:1412.6572, 2014. 2, 5, 7
+
+[19] C. Guo, M. Rana, M. Cisse, and L. van der Maaten. Coun- ´
+tering adversarial images using input transformations. arXiv
+preprint arXiv:1711.00117, 2017. 2
+
+[20] K. He, X. Zhang, S. Ren, and J. Sun. Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages
+770–778, 2016. 1
+
+[21] X. Huang, Y. Li, O. Poursaeed, J. Hopcroft, and S. Belongie.
+Stacked generative adversarial networks. arXiv preprint
+arXiv:1612.04357, 2016. 3
+
+[22] P. Isola, J.-Y. Zhu, T. Zhou, and A. A. Efros. Imageto-image translation with conditional adversarial networks.
+arXiv preprint arXiv:1611.07004, 2016. 3
+
+[23] J. Johnson, A. Alahi, and L. Fei-Fei. Perceptual losses for
+real-time style transfer and super-resolution. In European
+Conference on Computer Vision, pages 694–711. Springer,
+2016. 3
+
+[24] D. Kingma and J. Ba. Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980, 2014. 2
+
+[25] A. Krizhevsky, I. Sutskever, and G. E. Hinton. Imagenet
+classification with deep convolutional neural networks. In
+Advances in neural information processing systems, pages
+1097–1105, 2012. 1
+
+[26] A. Kurakin, I. Goodfellow, and S. Bengio. Adversarial examples in the physical world. arXiv preprint arXiv:1607.02533,
+2016. 2, 3
+
+[27] A. Kurakin, I. Goodfellow, and S. Bengio. Adversarial machine learning at scale. arXiv preprint arXiv:1611.01236,
+2016. 2, 3
+
+[28] A. B. L. Larsen, S. K. Sønderby, H. Larochelle, and
+O. Winther. Autoencoding beyond pixels using a learned
+similarity metric. arXiv preprint arXiv:1512.09300, 2015. 3
+
+[29] Y. Liu, X. Chen, C. Liu, and D. Song. Delving into transferable adversarial examples and black-box attacks. arXiv
+preprint arXiv:1611.02770, 2016. 7
+
+[30] J. Long, E. Shelhamer, and T. Darrell. Fully convolutional
+networks for semantic segmentation. In Proceedings of the
+IEEE Conference on Computer Vision and Pattern Recognition, pages 3431–3440, 2015. 1, 7
+
+[31] J. Lu, H. Sibai, E. Fabry, and D. Forsyth. No need to
+worry about adversarial examples in object detection in autonomous vehicles. arXiv preprint arXiv:1707.03501, 2017.
+2
+
+[32] X. Ma, B. Li, Y. Wang, S. M. Erfani, S. Wijewickrema, M. E.
+Houle, G. Schoenebeck, D. Song, and J. Bailey. Characterizing adversarial subspaces using local intrinsic dimensionality. arXiv preprint arXiv:1801.02613, 2018. 2
+4430
+
+[33] A. Madry, A. Makelov, L. Schmidt, D. Tsipras, and
+A. Vladu. Towards deep learning models resistant to adversarial attacks. arXiv preprint arXiv:1706.06083, 2017. 2
+
+[34] J. H. Metzen, M. C. Kumar, T. Brox, and V. Fischer. Universal adversarial perturbations against semantic image segmentation. arXiv preprint arXiv:1704.05712, 2017. 2, 7, 8
+
+[35] S.-M. Moosavi-Dezfooli, A. Fawzi, O. Fawzi, and
+P. Frossard. Universal adversarial perturbations. arXiv
+preprint arXiv:1610.08401, 2016. 1, 2, 5
+
+[36] S.-M. Moosavi-Dezfooli, A. Fawzi, O. Fawzi, P. Frossard,
+and S. Soatto. Analysis of universal adversarial perturbations. arXiv preprint arXiv:1705.09554, 2017. 2
+
+[37] S.-M. Moosavi-Dezfooli, A. Fawzi, and P. Frossard. Deepfool: a simple and accurate method to fool deep neural networks. In Proceedings of the IEEE Conference on Computer
+Vision and Pattern Recognition, pages 2574–2582, 2016. 2
+
+[38] K. R. Mopuri, U. Garg, and R. V. Babu. Fast feature fool: A
+data independent approach to universal adversarial perturbations. arXiv preprint arXiv:1707.05572, 2017. 2
+
+[39] A. Nguyen, J. Yosinski, and J. Clune. Deep neural networks
+are easily fooled: High confidence predictions for unrecognizable images. In Proceedings of the IEEE Conference on
+Computer Vision and Pattern Recognition, pages 427–436,
+2015. 2
+
+[40] N. Papernot, P. McDaniel, and I. Goodfellow. Transferability
+in machine learning: from phenomena to black-box attacks
+using adversarial samples. arXiv preprint arXiv:1605.07277,
+2016. 7
+
+[41] N. Papernot, P. McDaniel, I. Goodfellow, S. Jha, Z. B. Celik, and A. Swami. Practical black-box attacks against deep
+learning systems using adversarial examples. arXiv preprint
+arXiv:1602.02697, 2016. 7
+
+[42] A. Prakash, N. Moran, S. Garber, A. DiLillo, and J. Storer.
+Deflecting adversarial attacks with pixel deflection. arXiv
+preprint arXiv:1801.08926, 2018. 2
+
+[43] A. Radford, L. Metz, and S. Chintala. Unsupervised representation learning with deep convolutional generative adversarial networks. arXiv preprint arXiv:1511.06434, 2015. 3
+
+[44] A. Raghunathan, J. Steinhardt, and P. Liang. Certified
+defenses against adversarial examples. arXiv preprint
+arXiv:1801.09344, 2018. 2
+
+[45] A. S. Rakin, Z. He, B. Gong, and D. Fan. Robust preprocessing: A robust defense method against adversary attack. arXiv preprint arXiv:1802.01549, 2018. 2
+
+[46] O. Ronneberger, P. Fischer, and T. Brox. U-net: Convolutional networks for biomedical image segmentation. In International Conference on Medical Image Computing and
+Computer-Assisted Intervention, pages 234–241. Springer,
+2015. 3
+
+[47] A. Roy, C. Raffel, I. Goodfellow, and J. Buckman. Thermometer encoding: One hot way to resist adversarial examples. 2018. 2
+
+[48] P. Samangouei, M. Kabkab, and R. Chellappa. Defense-gan:
+Protecting classifiers against adversarial attacks using generative models. 2018. 2
+
+[49] K. Simonyan and A. Zisserman. Very deep convolutional
+networks for large-scale image recognition. arXiv preprint
+arXiv:1409.1556, 2014. 1
+
+[50] Y. Song, T. Kim, S. Nowozin, S. Ermon, and N. Kushman.
+Pixeldefend: Leveraging generative models to understand
+and defend against adversarial examples. arXiv preprint
+arXiv:1710.10766, 2017. 2
+
+[51] C. Szegedy, W. Liu, Y. Jia, P. Sermanet, S. Reed,
+D. Anguelov, D. Erhan, V. Vanhoucke, and A. Rabinovich.
+Going deeper with convolutions. In Proceedings of the
+IEEE conference on computer vision and pattern recognition, pages 1–9, 2015. 1
+
+[52] C. Szegedy, V. Vanhoucke, S. Ioffe, J. Shlens, and Z. Wojna.
+Rethinking the inception architecture for computer vision.
+In Proceedings of the IEEE Conference on Computer Vision
+and Pattern Recognition, pages 2818–2826, 2016. 1
+
+[53] C. Szegedy, W. Zaremba, I. Sutskever, J. Bruna, D. Erhan,
+I. Goodfellow, and R. Fergus. Intriguing properties of neural
+networks. arXiv preprint arXiv:1312.6199, 2013. 1, 2, 7
+
+[54] F. Tramer, A. Kurakin, N. Papernot, D. Boneh, and P. Mc- `
+Daniel. Ensemble adversarial training: Attacks and defenses.
+arXiv preprint arXiv:1705.07204, 2017. 2
+
+[55] D. Vijaykeerthy, A. Suri, S. Mehta, and P. Kumaraguru.
+Hardening deep neural networks via adversarial model cascades. arXiv preprint arXiv:1802.01448, 2018. 2
+
+[56] T.-W. Weng, H. Zhang, P.-Y. Chen, J. Yi, D. Su, Y. Gao, C.-
+J. Hsieh, and L. Daniel. Evaluating the robustness of neural
+networks: An extreme value theory approach. arXiv preprint
+arXiv:1801.10578, 2018. 2
+
+[57] C. Xie, J. Wang, Z. Zhang, Z. Ren, and A. Yuille. Mitigating adversarial effects through randomization. arXiv preprint
+arXiv:1711.01991, 2017. 2
+
+[58] C. Xie, J. Wang, Z. Zhang, Y. Zhou, L. Xie, and A. Yuille.
+Adversarial examples for semantic segmentation and object
+detection. arXiv preprint arXiv:1703.08603, 2017. 2, 7
+
+[59] F. Yu and V. Koltun. Multi-scale context aggregation by dilated convolutions. arXiv preprint arXiv:1511.07122, 2015.
+1
+
+[60] H. Zhao, J. Shi, X. Qi, X. Wang, and J. Jia. Pyramid scene
+parsing network. arXiv preprint arXiv:1612.01105, 2016. 1
+
+[61] J.-Y. Zhu, T. Park, P. Isola, and A. A. Efros. Unpaired imageto-image translation using cycle-consistent adversarial networks. arXiv preprint arXiv:1703.10593, 2017. 3
+
+
 
