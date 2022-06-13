@@ -260,6 +260,12 @@ Random process : Time까지 고려, 주가차트를 예시로 생각하면 됩�
 
 #### [Generative Adversarial Perturbations](https://openaccess.thecvf.com/content_cvpr_2018/papers/Poursaeed_Generative_Adversarial_Perturbations_CVPR_2018_paper.pdf)
 
+[NIPS 2017: Non-targeted Adversarial Attack](https://www.kaggle.com/c/nips-2017-non-targeted-adversarial-attack)
+
+* Non-targeted Adversarial Attack. The goal of the non-targeted attack is to slightly modify source image in a way that image will be classified incorrectly by generally unknown machine learning classifier.
+* Targeted Adversarial Attack. The goal of the targeted attack is to slightly modify source image in a way that image will be classified as specified target class by generally unknown machine learning classifier.
+* Defense Against Adversarial Attack. The goal of the defense is to build machine learning classifier which is robust to adversarial example, i.e. can classify adversarial images correctly.
+
 References
 
 [1] N. Akhtar, J. Liu, and A. Mian. Defense against universal
