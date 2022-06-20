@@ -19,13 +19,21 @@ Explicit model의 단점은 analytic한 function pθ(x)를 정확하게 수식�
 
 ### Score matching -> 어떤 모델링을 통해서 gardient logpθ(x)를 근사할 수 있으면 logpθ(x)를 알 수 있다. -> pθ(x)를 구할 수 있다.
 
-당연한 의문점..? p(x)를 모르는데 gradient를 어떻게 구해서 매칭하나?
+당연한 의문점..? p(x)를 모르는데 gradient를 어떻게 구해서 매칭하나? Sampling을 어떻게 하지? --> Langevin Dynamics
+
+--> 점을 무작위로 뿌린다음 Gradient의 field에 따라 어떻게 모이는지를 보고 그 점들이 가지는 분포를 보고 p(x)를 알 수 있겠다. Gradient Ascent하는 방법으로 막 뿌려놓고 그 점들이 어떻게 업데이트되는지 보는게 Langevin Dynamics의 특수 케이스다.
+
+--> 문제는 아무런 perturbation이 없으면 항상 거의 deterministic하게 항상 정해져있는 Local한 maxima(=Maximum Liklikhood)에 가버린다.
+
+--> 그래서 해결방안으로 Langevin dynmaics에서 노이즈에서 샘플링해가지고 추가로 넣어준다. Perturbation이 들어가면 noisy score를 따라가게 되면서 원래 데이터 분포를 좀 더 잘 근사한다.
 
 #### Score Estimation
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Score Matching.jpg" width="50%">
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Score Matching 수식증명.jpg" width="50%">
+
+
 
 [Read-through: Wasserstein GAN](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 
