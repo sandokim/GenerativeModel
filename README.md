@@ -15,7 +15,15 @@ Explicit model의 단점은 analytic한 function pθ(x)를 정확하게 수식�
 
 결과적으로 Sample을 뽑을 뿐, 직접적으로 modeling해주지는 않는다.
 
-* GAN
+* GANs
+
+### Score matching -> 어떤 모델링을 통해서 gardient logpθ(x)를 근사할 수 있으면 logpθ(x)를 알 수 있다. -> pθ(x)를 구할 수 있다.
+
+당연한 의문점..? p(x)를 모르는데 gradient를 어떻게 구해서 매칭하나?
+
+#### Score Estimation
+
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Score Matching.jpg" width="50%">
 
 [Read-through: Wasserstein GAN](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 
