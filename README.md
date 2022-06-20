@@ -1,4 +1,17 @@
-### GAN idea
+# Representation of Probability Distribution
+
+Explicit models: represent a probability density/mass function
+
+gaussian distribution에서 invertible function들을 반복시켜 학습시키는 모델, jacobian가 잘 정의가 되어 있어 정확하게 explict하게 모델링한다.
+
+Explicit model의 단점은 analytic한 function pθ(x)를 정확하게 수식으로 정의할 수 있어야한다. Explicit한 density function으로 근사한다. 모든 x에 대해서 integral을 계산해줘야하므로 Zθ가 intractable하다.
+
+* Bayesian networks (e.g., VAEs)
+* MRF
+* Autoregressive models
+* Flow models
+
+Implicit
 
 [Read-through: Wasserstein GAN](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 
