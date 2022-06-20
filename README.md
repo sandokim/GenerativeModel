@@ -25,6 +25,8 @@ Explicit model의 단점은 analytic한 function pθ(x)를 정확하게 수식�
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Score Matching.jpg" width="50%">
 
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Score Matching 수식증명.jpg" width="50%">
+
 [Read-through: Wasserstein GAN](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 
 #### Wasserstein distance = kantorovich-Rubinstei = Optimal transport = Earth mover's distance 
