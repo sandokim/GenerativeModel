@@ -1,6 +1,6 @@
 # Representation of Probability Distribution
 
-Explicit models: represent a probability density/mass function
+### Explicit models: represent a probability density/mass function
 
 gaussian distribution에서 invertible function들을 반복시켜 학습시키는 모델, jacobian가 잘 정의가 되어 있어 정확하게 explict하게 모델링한다.
 
@@ -11,7 +11,11 @@ Explicit model의 단점은 analytic한 function pθ(x)를 정확하게 수식�
 * Autoregressive models
 * Flow models
 
-Implicit
+### Implicit models: directly represent the sampling process
+
+결과적으로 Sample을 뽑을 뿐, 직접적으로 modeling해주지는 않는다.
+
+* GAN
 
 [Read-through: Wasserstein GAN](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 
