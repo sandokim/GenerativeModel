@@ -1,3 +1,9 @@
+# SOTA
+
+[Projected GANs Converge Faster](https://arxiv.org/pdf/2111.01007.pdf)
+
+[[75] D. Sungatullina, E. Zakharov, D. Ulyanov, and V. Lempitsky. Image manipulation with perceptual discriminators. In Proc. of the European Conf. on Computer Vision (ECCV), 2018.](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Diana_Sungatullina_Image_Manipulation_with_ECCV_2018_paper.pdf)
+
 # Representation of Probability Distribution
 
 ### Explicit models: represent a probability density/mass function
