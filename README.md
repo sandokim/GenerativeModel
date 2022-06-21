@@ -8,7 +8,7 @@
 
 #### True probability(P_T)와 Generator가 생성한 probability(P_G)에서 각각 뽑은 샘플에 θ parameter를 통해 augmentation을 확률적으로 적용한다.
 
-<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/stochastic_augmentation.jpg" width="100%">
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/Stochastic augmentation before projection.jpg" width="100%">
 
 [[75] D. Sungatullina, E. Zakharov, D. Ulyanov, and V. Lempitsky. Image manipulation with perceptual discriminators. In Proc. of the European Conf. on Computer Vision (ECCV), 2018.](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Diana_Sungatullina_Image_Manipulation_with_ECCV_2018_paper.pdf)
 
