@@ -2,9 +2,11 @@
 
 [Projected GANs Converge Faster](https://arxiv.org/pdf/2111.01007.pdf)
 
+#### Different resolution scale에서 feature projections을 했으므로 Discriminator가 feature scale마다 존재한다.
+
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/projected GANs.jpg" width="100%">
 
-#### Different resolution scale에서 feature projections을 했으므로 Discriminator가 여러 개이며
+#### True probability(P_T)와 Generator가 생성한 probability(P_G)에서 각각 뽑은 샘플에 θ parameter를 통해 augmentation을 확률적으로 적용한다.
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/stochastic_augmentation.jpg" width="100%">
 
