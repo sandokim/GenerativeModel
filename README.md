@@ -4,6 +4,10 @@
 
 <img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/projected GANs.jpg" width="100%">
 
+#### Different resolution scale에서 feature projections을 했으므로 Discriminator가 여러 개이며
+
+<img src="https://github.com/hyeseongkim0/Generative-Model/blob/main/images/stochastic_augmentation.jpg" width="100%">
+
 [[75] D. Sungatullina, E. Zakharov, D. Ulyanov, and V. Lempitsky. Image manipulation with perceptual discriminators. In Proc. of the European Conf. on Computer Vision (ECCV), 2018.](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Diana_Sungatullina_Image_Manipulation_with_ECCV_2018_paper.pdf)
 
 # Representation of Probability Distribution
